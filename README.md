@@ -51,9 +51,6 @@ This website uses a modern luxury design with:
 
 Add your project screenshot here.
 
-## 🔗 Live Demo
-
-Add your website live link here.
 
 ## 👨‍💻 Developer
 
